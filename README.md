@@ -1,2 +1,3 @@
-# Introduction Website using HTML & CSS
+# Simple Website using HTML & CSS
 
+This site is about me. It was made in 2020.
